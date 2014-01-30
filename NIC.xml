@@ -1,0 +1,4 @@
+<ruleset name="NIC.cl (Chile)">
+  <target host="www.nic.cl" />
+  <rule from="^http://(www\.)?nic\.cl/" to="https://www.nic.cl/"/>
+</ruleset>
